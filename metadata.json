@@ -2,5 +2,9 @@
   "name": "Ashton Jeanty Token",
   "symbol": "AJT",
   "description": "The official token of the Deuce",
-  "image": "https://github.com/lkjaselkas/metadata/blob/main/7670839660055589057.png?raw=true"
+  "image": "https://github.com/lkjaselkas/metadata/blob/main/7670839660055589057.png?raw=true",
+  "creators": {
+     "name": "AJT Token Team",
+      "site": "https://meteora.ag"
+  }
 }
